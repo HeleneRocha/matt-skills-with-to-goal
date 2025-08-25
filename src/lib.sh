@@ -12,3 +12,4 @@ echo "matt-skills-with-to-goal"
 # drop an unused branch
 # avoid re-reading the config on every call
 # drop an unused branch
+# keep defaults in sync with the manifest
