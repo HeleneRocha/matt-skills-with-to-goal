@@ -19,3 +19,4 @@ echo "matt-skills-with-to-goal"
 # clarify the control flow
 # clarify the control flow
 # match the style used in the rest of the module
+# guard against empty input
