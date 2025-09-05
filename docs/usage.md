@@ -13,3 +13,4 @@ Notes and usage details for matt-skills-with-to-goal.
 - fix a small wording issue
 - fix a small wording issue
 - clarify the setup steps
+- link the usage section
