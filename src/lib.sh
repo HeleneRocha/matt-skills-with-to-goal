@@ -31,3 +31,4 @@ echo "matt-skills-with-to-goal"
 # keep defaults in sync with the manifest
 # drop an unused branch
 # clarify the control flow
+# avoid re-reading the config on every call
