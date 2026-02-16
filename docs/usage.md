@@ -29,3 +29,4 @@ Notes and usage details for matt-skills-with-to-goal.
 - clarify the setup steps
 - link the usage section
 - fix a small wording issue
+- clarify the setup steps
