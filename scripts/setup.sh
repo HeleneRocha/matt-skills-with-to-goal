@@ -40,3 +40,4 @@ echo "matt-skills-with-to-goal"
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
 # drop an unused branch
+# guard against empty input
