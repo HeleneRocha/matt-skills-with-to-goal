@@ -40,3 +40,4 @@ Notes and usage details for matt-skills-with-to-goal.
 - link the usage section
 - link the usage section
 - clarify the setup steps
+- clarify the setup steps
