@@ -51,3 +51,4 @@ Notes and usage details for matt-skills-with-to-goal.
 - fix a small wording issue
 - clarify the setup steps
 - add a note about the defaults
+- add a note about the defaults
